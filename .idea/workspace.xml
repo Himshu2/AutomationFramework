@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="948eb461-967d-43e6-ac2f-9b3a8966b5b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FailedTestCasesSnapshots/submitOrder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSuites/ErrorValidation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSuites/testNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/ConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/ProductCataloguePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utilities/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Config/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestData/PurchaseOrder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ErrorValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProductCatalogueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StandaloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SubmitOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.dir/Reports/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2RrzHQsmSPCvvr9h3rr4MhdpApx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\RahulShetty_SeleniumFramework\SeleniumFramework\TestSuites" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\RahulShetty_SeleniumFramework\SeleniumFramework\TestSuites" />
+      <recent name="D:\RahulShetty_SeleniumFramework\SeleniumFramework\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/testNG.xml">
+    <configuration name="D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/ErrorValidation.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/ErrorValidation.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/Purchase.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/Purchase.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitOrderTest.submitOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFramework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SubmitOrderTest" />
+      <option name="METHOD_NAME" value="submitOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/testNG.xml" />
+        <item itemvalue="TestNG.D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/Purchase.xml" />
+        <item itemvalue="TestNG.D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/ErrorValidation.xml" />
+        <item itemvalue="TestNG.D:/RahulShetty_SeleniumFramework/SeleniumFramework/TestSuites/TestNG.xml" />
+        <item itemvalue="TestNG.SubmitOrderTest.submitOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="948eb461-967d-43e6-ac2f-9b3a8966b5b3" name="Changes" comment="" />
+      <created>1688022901857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688022901857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SubmitOrderTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
